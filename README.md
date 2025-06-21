@@ -1,16 +1,72 @@
-# Project 6. Calculator App.
+# 💻 Calculator App with Theme Switcher
 
-This is a solution to the [Calculator App Theme Switcher](https://www.frontendmentor.io/challenges/calculator-app-9lteq5N29/hub).
+This is a solution to the [Frontend Mentor Calculator App Challenge](https://www.frontendmentor.io/challenges/calculator-app-9lteq5N29/hub). The app supports basic arithmetic operations and features **three switchable themes** using pure CSS and JavaScript.
 
-### Links
+---
 
-- Solution URL: [Front End Mentor](https://your-solution-url.com)
-- Live Site URL: [Live Site](https://your-live-site-url.com)
+## 🔗 Links
 
-### Built with
+- **Live Site URL**: [View Live](https://github.com/AbhayRajSingh23/Calculator-App-with-Theme-Switcher.git)
+- **GitHub Repo**: [GitHub](https://github.com/AbhayRajSingh23/Calculator-App-with-Theme-Switcher)
 
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
-- CSS Grid
-- Vanilla JavaScript
+---
+
+## 🛠️ Built With
+
+- Semantic **HTML5**
+- **CSS Variables** for theming
+- **Flexbox** and **CSS Grid**
+- **Vanilla JavaScript**
+- **LocalStorage** for persisting theme selection
+
+---
+
+## 📸 Features
+
+- Fully responsive calculator layout
+- Real-time input and result display
+- Theme switcher with 3 custom themes
+- Persistent theme preference using `localStorage`
+- DEL, RESET, and operator functions (+, −, ×, ÷)
+
+---
+
+## 📂 Folder Structure
+
+📁 calculator-app/
+┣ 📜 index.html
+┣ 📜 styles.css
+┣ 📜 scripts.js
+┗ 📁 images/
+┗ 📜 favicon-32x32.png
+
+yaml
+Copy
+Edit
+
+---
+
+## ⚙️ How to Use Locally
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/AbhayRajSingh23/Calculator-App-with-Theme-Switcher.git
+Open index.html in any browser.
+
+🤝 Credits
+Challenge by Frontend Mentor
+
+Coded by Abhay Raj Singh
+
+yaml
+Copy
+Edit
+
+---
+
+## 📝 One-Liner Resume Pitch
+
+> **Built a responsive multi-theme Calculator App using vanilla JavaScript, CSS Grid, and localStorage to persist user preferences.**
+
+---
+
