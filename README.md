@@ -58,10 +58,6 @@ Challenge by Frontend Mentor
 
 Coded by Abhay Raj Singh
 
-yaml
-Copy
-Edit
-
 ---
 
 
