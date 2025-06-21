@@ -64,9 +64,4 @@ Edit
 
 ---
 
-## 📝 One-Liner Resume Pitch
-
-> **Built a responsive multi-theme Calculator App using vanilla JavaScript, CSS Grid, and localStorage to persist user preferences.**
-
----
 
