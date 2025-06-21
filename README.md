@@ -6,7 +6,7 @@ This is a solution to the [Frontend Mentor Calculator App Challenge](https://www
 
 ## 🔗 Links
 
-- **Live Site URL**: [View Live](https://github.com/AbhayRajSingh23/Calculator-App-with-Theme-Switcher.git)
+- **Live Site URL**: [View Live](https://abhayrajsingh23.github.io/Calculator-App-with-Theme-Switcher/)
 - **GitHub Repo**: [GitHub](https://github.com/AbhayRajSingh23/Calculator-App-with-Theme-Switcher)
 
 ---
